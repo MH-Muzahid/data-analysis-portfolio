@@ -23,7 +23,7 @@ A beginner-friendly data analysis project exploring fictional student examinatio
 * Summary statistics
 * Data filtering
 * Data visualization
-* 
+
 # Project File
 Student_Performance_Analysis.ipynb
 
